@@ -1,18 +1,18 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "ES6",                             // ES6 is fine for modern browsers
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "noEmit": true,
+    "noEmit": true,                              // Prevent output in client tsconfig
     "esModuleInterop": true,
-    "module": "CommonJS",
+    "module": "ESNext",                          // Use ESNext for Next.js builds
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "jsx": "preserve",
+    "jsx": "preserve",                           // Let Next.js handle JSX transform
     "incremental": true,
     "downlevelIteration": true,
 
@@ -21,7 +21,6 @@
       "@/*": ["./*"]
     }
   },
-
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
 }

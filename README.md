@@ -1,35 +1,21 @@
 # Digital Whiteboard | Online whiteboard
 
-Real-time whiteboard made with Next.JS and Socket.IO
+Digital whiteboard with Next.js and socket.io
 ## Features
 
 - Drawing lines, circles and rectangles
+- Real-time mouse tracking
 - Eraser
 - Undo/Redo
-- Real-time mouse tracking
+- Sharing
 - Chatting
-- Placing images
+- Changing backgrounds
 - Moving selected area
 - Saving canvas
-- Changing backgrounds
-- Sharing
+- Placing images
 ## Made using
 - Next.JS
-- Recoil
+- Socket.IO
 - TailwindCSS
 - Framer Motion
-- Socket.IO
-## Demo
-
-LIVE DEMO: https://Digital Whiteboard-kriziu.herokuapp.com
-
-
-## Installation
-Clone repository, install all npm packages and run like normal Next.JS application.
-## Screenshots
-
-#### Home page
-![home page](https://i.imgur.com/00CZlrR.png)
-
-#### Board page
-![Board page](https://i.imgur.com/0v4Y8XP.png)
+- Recoil

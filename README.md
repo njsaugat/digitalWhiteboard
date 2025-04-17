@@ -1,6 +1,6 @@
-# Digital Whiteboard | Online whiteboard
+# Bored's Board | Online whiteboard
 
-Digital whiteboard with Next.js and socket.io
+Bored's Board with Next.js and socket.io
 ## Features
 
 - Drawing lines, circles and rectangles

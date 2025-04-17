@@ -14,7 +14,7 @@ const App = ({ Component, pageProps }: AppProps) => {
   return (
     <>
       <Head>
-        <title>Digital Whiteboard | Online Whiteboard</title>
+        <title>Bored's Board | Online Whiteboard</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <RecoilRoot>

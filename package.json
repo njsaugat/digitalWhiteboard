@@ -1,5 +1,5 @@
 {
-  "name": "digital-whiteboard",
+  "name": "bored-board",
   "private": true,
   "scripts": {
     "dev": "nodemon server/index.ts",

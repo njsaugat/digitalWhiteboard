@@ -1,4 +1,4 @@
-# Collabio | Online whiteboard
+# Digital Whiteboard | Online whiteboard
 
 Real-time whiteboard made with Next.JS and Socket.IO
 ## Features
@@ -21,7 +21,7 @@ Real-time whiteboard made with Next.JS and Socket.IO
 - Socket.IO
 ## Demo
 
-LIVE DEMO: https://collabio-kriziu.herokuapp.com
+LIVE DEMO: https://Digital Whiteboard-kriziu.herokuapp.com
 
 
 ## Installation

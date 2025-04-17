@@ -1,5 +1,5 @@
 {
-  "name": "collabio",
+  "name": "digitalWhiteboard",
   "private": true,
   "scripts": {
     "dev": "nodemon server/index.ts",
